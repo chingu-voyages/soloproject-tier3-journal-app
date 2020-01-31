@@ -1,4 +1,4 @@
-# Chingu Voyage Pre-work Project (Tier 3): Journal App
+# Chingu Solo Project - Tier 3 - Journal App
 
 ![Tier3 Journal App](./assets/Tier3_Journal_App.png)
 
